@@ -57,7 +57,7 @@ This project presents an interactive Power BI dashboard designed to analyze food
 
 ## 👤 Author
 Ashish Pal  
-Email: your-email@example.com  
+Email: your-ashishpal.techie@gmail.com  
 LinkedIn: your-linkedin-profile-url  
 GitHub: https://github.com/apal27983-cpu  
 
